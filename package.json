@@ -1,0 +1,25 @@
+{
+  "name": "NodeProtection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/main.js",
+  "scripts": {
+    "run": "node server/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aleksgorbach/NodeProtection"
+  },
+  "author": "Aliaksandr Horbach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksgorbach/NodeProtection/issues"
+  },
+  "homepage": "https://github.com/aleksgorbach/NodeProtection",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
