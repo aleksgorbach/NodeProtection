@@ -1,5 +1,5 @@
 {
-  "name": "NodeProtection",
+  "name": "node-protection",
   "description": "",
   "main": "index.js",
   "authors": [
@@ -14,5 +14,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "react": "^15.2.0"
+  }
 }
