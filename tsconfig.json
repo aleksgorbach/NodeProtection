@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "outFile": "app.js",
+        "jsx": "react"
+    },
+    "files": [
+        "client/app/App.tsx"
+    ]
+}
+
